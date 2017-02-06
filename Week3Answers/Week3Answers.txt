@@ -1,0 +1,13 @@
+-----------------------------------------------
+OUTPUT FROM PROBLEM 1
+avescob2@keeling Week3Answers: $ ./Week3.1Answers.txt hello how are you
+hello how are you
+4
+-----------------------------------------------
+OUTPUT FROM PROBLEM 2
+avescob2@keeling Week3Answers: $ ./Week3.2Answers.sh
+avescob2@keeling Week3Answers: $ ls
+2017-02-6_02:53:49_avescob2.txt  Week3.2Answers.sh  myscript.sh
+Week3.1Answers.txt               Week3Answers.txt
+
+----------------------------------------------

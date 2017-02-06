@@ -1,0 +1,11 @@
+Question 1: Access denied 
+Question 2:
+	a. It goes up a directory.
+	b. They are files from the github repository.
+	c. It goes to the home directory.
+	d. It says "/"
+	e. It says no such or directory. I had access to all shown.
+Question 3: 
+	a. It is in full multiuser mode.
+	b. No, it is a directory
+Question 4: I would google it to find out more.
