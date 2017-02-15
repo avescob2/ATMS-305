@@ -1,0 +1,13 @@
+-----------------------------------
+OUTPUT FROM PROBLEM 1	
+70
+30
+115
+2
+
+----------------------------------
+OUTPUT FROM PROBLEM 2
+please input a temp in C:12
+('saturation vapor pressure is', 14.000740904904253)
+
+
